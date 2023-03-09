@@ -1,0 +1,45 @@
+.overlay-mf {
+    background-color: #000 !important;
+}
+
+.body {
+    background-color: dimgrey !important;
+}
+
+.icon {
+    height: 36px;
+    width: 36px;
+}
+
+.facebook-color {
+    background-color: #4267B2 !important;
+}
+
+.instagram-color {
+    background-image: linear-gradient(to bottom left, #405DE6, #5B51D8, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
+
+.discord-color {
+    background-color: #7289da !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.rounded-corner {
+    border-radius: 30px;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.scroll {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
